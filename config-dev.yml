@@ -1,1 +1,2 @@
-dev
+config:
+  info: this is dev.yml version=1
